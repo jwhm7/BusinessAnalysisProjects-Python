@@ -1,4 +1,4 @@
-# [Homesite Quote Conversion, Which Customers Will Purchase A Quoted Insurance Plan?]
+## [Homesite Quote Conversion, Which Customers Will Purchase A Quoted Insurance Plan?]
 
 ### ㆍ Summary
 Experimented 5 ML algorithms with SMOTE, stacking, and hyperparameter tuning that predict which customers will purchase a given quoted price.
