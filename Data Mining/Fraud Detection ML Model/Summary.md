@@ -5,18 +5,20 @@ Identified the best working ML algorithm and hyperparameter in detecting fraud.
 <br/>
 <br/>
 ### ㆍ Process
-Data Preprocessing ➔ Experiment Classification Models ➔ Tune Hyperparameters ➔ Conclusion
+Data Preprocessing &nbsp;➔&nbsp; Experiment Classification Models &nbsp;➔&nbsp; Tune Hyperparameters &nbsp;➔&nbsp; Conclusion
 <br/>
 <br/>
 ### ㆍ Used Algorithms/Methods
-▸ Basic Model : DecisionTreeClassifier, RandomForestClassifier
+▸&nbsp; Basic Model : DecisionTreeClassifier, RandomForestClassifier
 <br/>
-▸ Hyperparameter Tuning : GridSearchCV, RandomizedSearchCV
+▸&nbsp; Hyperparameter Tuning : GridSearchCV, RandomizedSearchCV
 <br/>
 <br/>
 ### ㆍ Conclusion
-▸ The RandomForestClassifier model with parameter found using GridSearchCV showed the highest model accuracy and f1-score.
+▸&nbsp; The RandomForestClassifier model with parameter found using GridSearchCV showed the highest model accuracy and f1-score.
 <br/>
-&ensp; However, the precision and recall score for 1 are both too low.
+&ensp;&nbsp; However, the precision and recall score for 1 are both too low.
 <br/>
-▸ The DecisionTreeClassifier model with parameter found using RandomizedSearchCV showed the most balanced score with fair accuracy.
+▸&nbsp; The DecisionTreeClassifier model with parameter found using RandomizedSearchCV showed the most balanced score with fair 
+<br/>
+&ensp;&ensp;accuracy.
