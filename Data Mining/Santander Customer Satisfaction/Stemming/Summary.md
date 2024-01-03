@@ -5,16 +5,16 @@ Identified the best working model by experimenting stemming methods and feature 
 <br/>
 <br/>
 ### ㆍ Process
-Stemming ➔ Select Stemming Method ➔ Feature Selection ➔ Conclusion
+Stemming &nbsp;➔&nbsp; Select Stemming Method &nbsp;➔&nbsp; Feature Selection &nbsp;➔&nbsp; Conclusion
 <br/>
 <br/>
 ### ㆍ Used Algorithms/Methods
-▸ Stemming Method : Snowball, Porter
+▸&nbsp; Stemming Method : Snowball, Porter
 <br/>
-▸ Feature Selection Method : Filter(top 50, 25, 10), Wrapper(RandomForestClassifier, DecisionTreeClassifier)
+▸&nbsp; Feature Selection Method : Filter(top 50, 25, 10), Wrapper(RandomForestClassifier, DecisionTreeClassifier)
 <br/>
 <br/>
 ### ㆍ Conclusion
-▸ Filter of 50 and 25 showed the same score.
+▸&nbsp; Filter of 50 and 25 showed the same score.
 <br/>
-▸ Wrapper using DecisionTreeClassifier showed higher score than the Wrapper method using RandomForestClassifier.
+▸&nbsp; Wrapper using DecisionTreeClassifier showed higher score than the Wrapper method using RandomForestClassifier.
