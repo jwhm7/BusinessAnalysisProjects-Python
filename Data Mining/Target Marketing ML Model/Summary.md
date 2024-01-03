@@ -1,24 +1,21 @@
-# [Santander Customer Satisfaction, Which Customers Are Happy Customers?]
+# [Target Marketing ML Model]
 
 ### ㆍ Summary
 
-Experimented Decision Tree Classifier model in diverse ways 
-to find the best model that predicts if a customer is satisfied or dissatisfied with their banking experience。
+Identified the best working ML algorithm and hyperparameter in deriving a marketing target.
 
 ### ㆍ Process
 
-Data Preprocessing ➔ EDA ➔ Basic Model ➔ Experiment Model ➔ Conclusion
+Data Preprocessing ➔ Experiment Classification Models ➔ Tune Hyperparameters ➔ Conclusion
 
 ### ㆍ Used Algorithms/Methods
 
-▸ Basic Model : DecisionTreeClassifier
+▸ Basic Model : DecisionTreeClassifier, RandomForestClassifier
 <br/>
-▸ Finding Important Features : roc_auc_score, xgboost, plot_importance
-<br/>
-▸ Improving Model : SMOTE, GridSearchCV
+▸ Hyperparameter Tuning : GridSearchCV, RandomizedSearchCV
 
 ### ㆍ Conclusion
 
-▸ The DecisionTreeClassifier model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
+▸ The RandomForestClassifier model without hyperparameter tuning showed the highest model accuracy and f1-score.
 <br/>
-▸ The model accuracy was the highest with the basic model.
+&ensp;&ensp; All of the classification report scores were well-balanced.
