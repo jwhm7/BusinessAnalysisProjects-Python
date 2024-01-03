@@ -11,7 +11,7 @@ Data Preprocessing ➔ EDA ➔ Basic Model ➔ Experiment Model ➔ Conclusion
 
 ### ㆍ Used Algorithms/Methods
 
-▸ Basic Model : DecisionTreeClassification
+▸ Basic Model : DecisionTreeClassifier
 <br/>
 ▸ Finding Important Features : roc_auc_score, xgboost, plot_importance
 <br/>
@@ -19,7 +19,7 @@ Data Preprocessing ➔ EDA ➔ Basic Model ➔ Experiment Model ➔ Conclusion
 
 ### ㆍ Conclusion
 
-▸ The DecisionTreeClassification model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
+▸ The DecisionTreeClassifier model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
 <br/>
 ▸ The model accuracy was the highest with the basic model.
 
