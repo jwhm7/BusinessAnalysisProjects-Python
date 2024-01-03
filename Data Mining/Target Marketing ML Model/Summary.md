@@ -18,4 +18,4 @@ Data Preprocessing ➔ Experiment Classification Models ➔ Tune Hyperparameters
 
 ▸ The RandomForestClassifier model without hyperparameter tuning showed the highest model accuracy and f1-score.
 <br/>
-&ensp;&ensp; All of the classification report scores were well-balanced.
+&ensp; All of the classification report scores were well-balanced.
