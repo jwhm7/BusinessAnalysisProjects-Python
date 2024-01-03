@@ -5,16 +5,16 @@ Identified the best working ML algorithm and hyperparameter in deriving a market
 <br/>
 <br/>
 ### ㆍ Process
-Data Preprocessing ➔ Experiment Classification Models ➔ Tune Hyperparameters ➔ Conclusion
+Data Preprocessing &nbsp;➔&nbsp; Experiment Classification Models&nbsp; ➔&nbsp; Tune Hyperparameters &nbsp;➔&nbsp; Conclusion
 <br/>
 <br/>
 ### ㆍ Used Algorithms/Methods
-▸ Basic Model : DecisionTreeClassifier, RandomForestClassifier
+▸ &nbsp;Basic Model : DecisionTreeClassifier, RandomForestClassifier
 <br/>
-▸ Hyperparameter Tuning : GridSearchCV, RandomizedSearchCV
+▸ &nbsp;Hyperparameter Tuning : GridSearchCV, RandomizedSearchCV
 <br/>
 <br/>
 ### ㆍ Conclusion
-▸ The RandomForestClassifier model without hyperparameter tuning showed the highest model accuracy and f1-score.
+▸ &nbsp;The RandomForestClassifier model without hyperparameter tuning showed the highest model accuracy and f1-score.
 <br/>
-&ensp; All of the classification report scores were well-balanced.
+&ensp;&nbsp; All of the classification report scores were well-balanced.
