@@ -1,12 +1,13 @@
 ## [Santander Customer Satisfaction, Which Customers Are Happy Customers?_Genetic Algorithm and Tuning]
 
 ### ㆍ Summary
-Experimented Decision Tree Classifier model in diverse ways 
-to find the best model that predicts if a customer is satisfied or dissatisfied with their banking experience。
+Derived the best working model by selecting features and comparing the score of basic model and tuned model.
 <br/>
 <br/>
 ### ㆍ Process
-Data Preprocessing&nbsp; ➔&nbsp; EDA&nbsp; ➔ &nbsp;Basic Model &nbsp;➔&nbsp; Experiment Model &nbsp;➔&nbsp; Conclusion
+Data Preprocessing &nbsp;➔&nbsp; Feature Selection &nbsp;➔&nbsp; i) Top 25 &nbsp;➔&nbsp; Basic Model &nbsp;➔&nbsp; Tuned Model
+<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ii) Top 50 &nbsp;➔&nbsp; Basic Model &nbsp;➔&nbsp; Tuned Model &nbsp;➔&nbsp; Conclusion
 <br/>
 <br/>
 ### ㆍ Used Algorithms/Methods
