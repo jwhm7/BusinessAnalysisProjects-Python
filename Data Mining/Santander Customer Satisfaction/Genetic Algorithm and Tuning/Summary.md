@@ -11,17 +11,16 @@ Data Preprocessing &nbsp;➔&nbsp; Feature Selection &nbsp;➔&nbsp; i) Top 25 &
 <br/>
 <br/>
 ### ㆍ Used Algorithms/Methods
-▸ &nbsp;Basic Model : DecisionTreeClassifier
+▸ &nbsp;Basic Model : RandomForestClassifier, GradientBoostingClassifier
 <br/>
-▸ &nbsp;Finding Important Features : roc_auc_score, xgboost, plot_importance
+▸ &nbsp;Feature Selection Method : GeneticSelectionCV
 <br/>
-▸ Improving Model : SMOTE, GridSearchCV
+▸ &nbsp;Hyperparameter Tuning Method : RandomizedSearchCV
+<br/>
+▸ &nbsp;Preprocessing Method : OneHotEncoding, Undersampling
 <br/>
 <br/>
 ### ㆍ Conclusion
-▸ &nbsp;The DecisionTreeClassifier model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
+▸ &nbsp;Classifiers with Hyperparameter tuning have higher scores.
 <br/>
-▸ &nbsp;The model accuracy was the highest with the basic model.
-<br/>
-<br/>
-### ㆍ Reference
+▸ &nbsp;+) Models with undersampling method have higher Kaggle score than SMOTE.
