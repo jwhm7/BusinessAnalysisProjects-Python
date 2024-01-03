@@ -16,8 +16,8 @@ Data Preprocessing ➔ Experiment Classification Models ➔ Tune Hyperparameters
 
 ### ㆍ Conclusion
 
-▸ The RandomForestClassification model with parameter found using GridSearchCV showed the highest model accuracy and f1-score.
+▸ The RandomForestClassifier model with parameter found using GridSearchCV showed the highest model accuracy and f1-score.
 <br/>
 &ensp;&ensp; However, the precision and recall score for 1 are both too low.
 <br/>
-▸ The DecisionTreeClassification model with parameter found using RandomizedSearchCV showed the most balanced score with fair accuracy.
+▸ The DecisionTreeClassifier model with parameter found using RandomizedSearchCV showed the most balanced score with fair accuracy.
