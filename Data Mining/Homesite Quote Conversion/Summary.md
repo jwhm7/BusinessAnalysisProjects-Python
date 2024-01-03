@@ -1,17 +1,16 @@
-# [Santander Customer Satisfaction, Which Customers Are Happy Customers?]
+# [Homesite Quote Conversion, Which Customers Will Purchase A ]
 
 ### ㆍ Summary
 
-Experimented Decision Tree Classifier model in diverse ways 
-to find the best model that predicts if a customer is satisfied or dissatisfied with their banking experience。
+Experimented 5 ML algorithms with SMOTE, stacking, and hyperparameter tuning to find the best model predicting which customers will purchase a given quoted price.
 
 ### ㆍ Process
 
-Data Preprocessing ➔ EDA ➔ Basic Model ➔ Experiment Model ➔ Conclusion
+Basic Models ➔ Implement SMOTE with Different Ratios ➔ Perform Stacking and Hyperparameter Tuning ➔ Conclusion
 
 ### ㆍ Used Algorithms/Methods
 
-▸ Basic Model : DecisionTreeClassifier
+▸ Basic Model : DecisionTreeClassifier, RandomForestClassifier, LinearSCMClassifier, MultiLayerPerceptron, KNeighborClassifier
 <br/>
 ▸ Finding Important Features : roc_auc_score, xgboost, plot_importance
 <br/>
