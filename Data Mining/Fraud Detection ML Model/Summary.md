@@ -2,7 +2,7 @@
 
 ### ㆍ Summary
 
-Identify the best working ML algorithm and hyperparameter in detecting fraud.
+Identified the best working ML algorithm and hyperparameter in detecting fraud.
 
 ### ㆍ Process
 
