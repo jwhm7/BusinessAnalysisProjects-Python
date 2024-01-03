@@ -1,7 +1,11 @@
 # MS-Business Analytics Projects
 
-## # Machine Learning | Deep Learning | Data Mining | EDA | Python
+### # Machine Learning | Deep Learning | Data Mining | EDA | Python
+____
+### ㆍ Arizona State University
+### ㆍ Master of Science in Business Analytics '23
 
-### - Arizona State University
-###   Master of Science in Business Analytics '23
-#### Data Source : Kaggle, etc.
+
+
+
+ㆍ Data Source : Kaggle, etc.
