@@ -5,19 +5,19 @@ Experimented 5 ML algorithms with SMOTE, stacking, and hyperparameter tuning tha
 <br/>
 <br/>
 ### ㆍ Process
-Basic Models ➔ Implement SMOTE with Different Ratios ➔ Perform Stacking and Hyperparameter Tuning ➔ Conclusion
+Basic Models &nbsp;➔&nbsp; Implement SMOTE with Different Ratios &nbsp;➔&nbsp; Perform Stacking and Hyperparameter Tuning &nbsp;➔&nbsp; Conclusion
 <br/>
 <br/>
 ### ㆍ Used Algorithms/Methods
-▸ Basic Model : DecisionTreeClassifier, RandomForestClassifier, LinearSVMClassifier, MultiLayerPerceptron, KNeighborsClassifier
+▸&nbsp; Basic Model : DecisionTreeClassifier, RandomForestClassifier, LinearSVMClassifier, MultiLayerPerceptron, KNeighborsClassifier
 <br/>
-▸ Improving Model : SMOTE(ratio=0.5, 0.7, 0.9), RandomizedSearchCV
+▸&nbsp; Improving Model : SMOTE(ratio=0.5, 0.7, 0.9), RandomizedSearchCV
 <br/>
 <br/>
 ### ㆍ Conclusion
-▸ The original dataset is highly imbalanced, as shown by the score difference between the basic model and the one after implementing SMOTE.
+▸&nbsp; The original dataset is highly imbalanced, as shown by the score difference between the basic model and the one after implementing SMOTE.
 <br/>
-▸ In terms of RandomForestClassifier score, the model before stacking and parameter tuning is higher than after the implementation
+▸&nbsp; In terms of RandomForestClassifier score, the model before stacking and parameter tuning is higher than after the implementation
 <br/>
 <br/>
 ### ㆍ Reference
