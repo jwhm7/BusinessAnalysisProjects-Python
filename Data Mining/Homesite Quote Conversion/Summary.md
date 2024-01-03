@@ -15,9 +15,12 @@ Basic Models &nbsp;➔&nbsp; Implement SMOTE with Different Ratios &nbsp;➔&nbs
 <br/>
 <br/>
 ### ㆍ Conclusion
-▸&nbsp; The original dataset is highly imbalanced, as shown by the score difference between the basic model and the one after implementing SMOTE.
+▸&nbsp; The original dataset is highly imbalanced, as shown by the score difference between the basic model and the one after
 <br/>
-▸&nbsp; In terms of RandomForestClassifier score, the model before stacking and parameter tuning is higher than after the implementation
+&nbsp;&ensp; implementing SMOTE.
+<br/>
+▸&nbsp; In terms of RandomForestClassifier score, the model before stacking and parameter tuning is higher than after the <br/>
+&ensp; &nbsp;implementation
 <br/>
 <br/>
 ### ㆍ Reference
