@@ -1,0 +1,24 @@
+# [Santander Customer Satisfaction, Which Customers Are Happy Customers?]
+
+### ㆍ Summary
+
+Experimented Decision Tree Classifier model in diverse ways 
+to find the best model that predicts if a customer is satisfied or dissatisfied with their banking experience。
+
+### ㆍ Process
+
+Data Preprocessing ➔ EDA ➔ Basic Model ➔ Model Experimentation ➔ Conclusion
+
+### ㆍ Used Algorithms/Methods
+
+▸ Basic Model : Decision Tree Classifier
+
+▸ Finding Important Features : xgboost, plot_importance
+
+▸ Improving Model : SMOTE, GridSearchCV
+
+### ㆍ Conclusion
+
+▸ The DTC model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
+
+▸ The model accuracy was the highest with the basic model.
