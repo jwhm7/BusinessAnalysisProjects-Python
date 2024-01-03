@@ -7,11 +7,11 @@ to find the best model that predicts if a customer is satisfied or dissatisfied 
 
 ### ㆍ Process
 
-Data Preprocessing ➔ EDA ➔ Basic Model ➔ Model Experimentation ➔ Conclusion
+Data Preprocessing ➔ EDA ➔ Basic Model ➔ Experiment Model ➔ Conclusion
 
 ### ㆍ Used Algorithms/Methods
 
-▸ Basic Model : Decision Tree Classifier
+▸ Basic Model : DecisionTreeClassification
 <br/>
 ▸ Finding Important Features : roc_auc_score, xgboost, plot_importance
 <br/>
@@ -19,7 +19,7 @@ Data Preprocessing ➔ EDA ➔ Basic Model ➔ Model Experimentation ➔ Conclus
 
 ### ㆍ Conclusion
 
-▸ The DTC model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
+▸ The DecisionTreeClassification model with optimized random_state and parameter showed the highest Kaggle score among 6 models.
 <br/>
 ▸ The model accuracy was the highest with the basic model.
 
