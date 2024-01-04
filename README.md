@@ -24,5 +24,3 @@ _____
 ㆍ **Evaluation** (Silhouette Coefficient, Calinski-Harabasz Index, Davies-Bouldin Index)
 <br/>
 ㆍ **Data Dimension Reduction Algorithm** (UMAP, PCA)
-#### &nbsp;Domain Cases of GPT
-ㆍ **Generative AI Variants** (OpenAI, Google, Microsoft, etc.) 
